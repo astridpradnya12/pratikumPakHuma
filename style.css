@@ -1,0 +1,25 @@
+section {
+  border: solid black;
+  padding: 1px;
+  margin: 20px 0;
+  box-shadow: 0 0 5px #ddd;
+}
+
+header {
+  color: rgb(111, 0, 255);
+}
+
+.warnabg {
+  background-color: pink;
+}
+
+.font {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  color: blueviolet;
+}
+
+.style {
+  color: blueviolet;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
